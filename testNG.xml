@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="EmployeeRestAPISuite">
+
+<listeners>
+<listener class-name="utilitiesClass.Listners"></listener>
+</listeners>
+
+<test thread-count="1" name="EmployeeRestAPITest">
+<classes>
+<class name="testClasses.TC001_Get_All_Employees"></class>
+
+</classes>
+
+</test>
+
+</suite>

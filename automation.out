@@ -1,0 +1,11 @@
+2019-11-24 16:11:481 INFO  TC003_POST_EmployeeRecord:42 - ********** Started TC004_PUT_Employee Record ***********
+2019-11-24 16:11:930 INFO  TC003_POST_EmployeeRecord:70 - Response Body is: {"name":"JohnO","salary":"20385","age":"74"}
+2019-11-24 16:11:946 INFO  TC003_POST_EmployeeRecord:78 - ********** Checking Status code *********
+2019-11-24 16:11:948 INFO  TC003_POST_EmployeeRecord:80 - Status Code is==>200
+2019-11-24 16:11:963 INFO  TC003_POST_EmployeeRecord:86 - ********** Checking Status Line *********
+2019-11-24 16:11:963 INFO  TC003_POST_EmployeeRecord:88 - Status Line is==>HTTP/1.1 200 OK
+2019-11-24 16:11:993 INFO  TC003_POST_EmployeeRecord:94 - ********** Checking Content Type *********
+2019-11-24 16:11:994 INFO  TC003_POST_EmployeeRecord:96 - Content Type is==>text/html; charset=UTF-8
+2019-11-24 16:11:03 INFO  TC003_POST_EmployeeRecord:102 - ********** Checking Content Type *********
+2019-11-24 16:11:06 INFO  TC003_POST_EmployeeRecord:104 - Server Type is==>nginx/1.16.0
+2019-11-24 16:11:14 INFO  TC003_POST_EmployeeRecord:118 - ********* Finsihed TC003_POST_Employee_Record ***********
